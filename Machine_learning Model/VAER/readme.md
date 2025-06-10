@@ -1,0 +1,2 @@
+This is a variational autoencoder with regression. For the specific model, please refer to the following paper
+Y.-L. He, X.-Y. Li, J.-H. Ma, Q.-X. Zhu, and S. Lu, “Attributerelevant distributed variational autoencoder integrated with lstm for dynamic industrial soft sensing,” Engineering Applications of Artificial Intelligence, vol. 119, p. 105737, 2023. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0952197622007278
